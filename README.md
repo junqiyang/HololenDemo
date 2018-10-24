@@ -14,7 +14,18 @@ I provided a live demo-video for running this repo. [Video Demo](https://drive.g
 1. Loading the project with Unity
 2. Generate the VS project by Unity
 3. Connect Hololens/Running Emulator
-4. !You need to have a wireless Xbox Controller for actions 
+4. !You need to have a wireless Xbox Controller for actions
+
+### Features
+
+1. Basic 3D rendering and fly-through simulation
+2. Highlight and information display
+3. Multi-device control/sharing
+4. Map Inter-action with Xbox Controller
+
+### Author
+
+Junqi Yang
 
 
 
